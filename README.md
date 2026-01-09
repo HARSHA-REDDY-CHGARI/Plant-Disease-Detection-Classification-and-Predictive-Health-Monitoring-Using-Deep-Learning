@@ -1,15 +1,14 @@
-# Plant Disease Detection, Classification and Predictive Health Monitoring System  Using Deep Learning
+# 🌿 Plant Disease Detection, Classification and Predictive Health Monitoring System  
+Using Deep Learning
 
-##  Overview
-This project is an end-to-end **Plant Disease Detection, Classification and Predictive Health Monitoring System** designed 
-to help farmers identify crop diseases early, receive treatment recommendations, and prevent future outbreaks using weather-based risk forecasting.
+## 📌 Overview
+This project is an end-to-end **Plant Disease Detection, Classification and Predictive Health Monitoring System** designed to help farmers identify crop diseases early, receive treatment recommendations, and prevent future outbreaks using weather-based risk forecasting.
 
-The system uses **deep learning (ResNet-18 CNN)** to analyze leaf images and integrates **real-time weather data** to provide preventive alerts,
-helping reduce crop loss and unnecessary pesticide usage.
+The system uses **deep learning (ResNet-18 CNN)** to analyze leaf images and integrates **real-time weather data** to provide preventive alerts, helping reduce crop loss and unnecessary pesticide usage.
 
 ---
 
-##  Key Features
+## 🎯 Key Features
 - 🌱 Plant disease detection and classification from leaf images  
 - 🧠 Deep learning model (ResNet-18) with **95% accuracy**  
 - 💊 Automated remedies and pesticide recommendations  
@@ -19,29 +18,30 @@ helping reduce crop loss and unnecessary pesticide usage.
 ---
 
 ## 🛠 Tech Stack
-**Frontend**
+
+### Frontend
 - React.js
 - CSS
 - Vite
 
-**Backend**
+### Backend
 - Python
 - Flask
 - REST APIs
 
-**Machine Learning**
+### Machine Learning
 - Convolutional Neural Networks (ResNet-18)
 - PyTorch / TensorFlow
 - Image preprocessing & augmentation
 
-**Other Tools**
+### Other Tools
 - Weather APIs
-- Firebase 
+- Firebase
 - Git & GitHub
 
 ---
 
-##  System Architecture
+## 🧠 System Architecture
 1. User uploads a leaf image through the web interface  
 2. Image is preprocessed and sent to the backend  
 3. CNN model classifies the disease and confidence score  
@@ -65,7 +65,7 @@ helping reduce crop loss and unnecessary pesticide usage.
 
 ---
 
-##  How to Run the Project
+## 🚀 How to Run the Project
 
 ### Backend
 ```bash
@@ -73,7 +73,7 @@ cd plantguard-backend
 pip install -r requirements.txt
 python app.py
 ### frontend
+```bash
 cd plnt-uii
 npm install
 npm run dev
-
