@@ -1,0 +1,5 @@
+cd C:\Users\harsh\OneDrive\Desktop\SETPROJECT\plnt-uii
+ npm run dev   
+PS C:\Users\harsh\OneDrive\Desktop\SETPROJECT\plantguard-backend> python app.py
+python -m venv .venv
+>> . .venv/bin/activate 

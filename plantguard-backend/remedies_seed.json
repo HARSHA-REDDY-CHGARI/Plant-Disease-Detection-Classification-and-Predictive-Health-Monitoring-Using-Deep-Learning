@@ -1,0 +1,191 @@
+[
+  {
+    "diseaseName": "Pepper__bell___Bacterial_spot",
+    "remedies": [
+      "Remove and destroy infected leaves immediately to prevent spread.",
+      "Avoid overhead watering to reduce moisture on foliage.",
+      "Use disease-free seeds and rotate crops every 2–3 years."
+    ],
+    "pesticides": [
+      "Copper oxychloride (2.5 g/L) – apply at first signs of infection.",
+      "Streptocycline (0.5 g/L) – use as a bactericide every 10 days.",
+      "Kasugamycin (2 ml/L) – effective under humid, rainy conditions."
+    ]
+  },
+  {
+    "diseaseName": "Pepper__bell___healthy",
+    "remedies": [
+      "Maintain balanced fertilizer with adequate potassium and calcium.",
+      "Ensure proper spacing and airflow to prevent fungal development.",
+      "Regularly monitor for pest or disease symptoms."
+    ],
+    "pesticides": [
+      "No pesticides required – maintain good crop hygiene and balanced nutrition."
+    ]
+  },
+  {
+    "diseaseName": "Potato___Early_blight",
+    "remedies": [
+      "Remove lower infected leaves early and dispose away from the field.",
+      "Avoid working in wet fields to prevent fungal spread.",
+      "Rotate crops with non-solanaceous plants to reduce inoculum."
+    ],
+    "pesticides": [
+      "Mancozeb 75 WP (2 g/L) – preventive spray every 7–10 days.",
+      "Chlorothalonil (2 g/L) – alternate with Mancozeb for resistance management.",
+      "Azoxystrobin (0.5 ml/L) – systemic fungicide for high humidity conditions."
+    ]
+  },
+  {
+    "diseaseName": "Potato___healthy",
+    "remedies": [
+      "Plant certified disease-free tubers and ensure well-drained soil.",
+      "Avoid over-irrigation and monitor regularly for early disease signs.",
+      "Maintain field sanitation after harvest."
+    ],
+    "pesticides": [
+      "No pesticide treatment required for healthy crops."
+    ]
+  },
+  {
+    "diseaseName": "Potato___Late_blight",
+    "remedies": [
+      "Remove and burn infected leaves and tubers immediately.",
+      "Ensure good drainage and airflow; avoid nighttime irrigation.",
+      "Apply preventive fungicides during humid or rainy weather."
+    ],
+    "pesticides": [
+      "Metalaxyl + Mancozeb (2 g/L) – spray every 10–12 days in wet seasons.",
+      "Copper oxychloride (2.5 g/L) – for early protective application.",
+      "Dimethomorph (1 ml/L) – alternate with contact fungicides for better control."
+    ]
+  },
+  {
+    "diseaseName": "Tomato___Bacterial_spot",
+    "remedies": [
+      "Remove infected leaves and destroy crop residues.",
+      "Avoid working in fields when foliage is wet.",
+      "Use resistant varieties and apply copper-based bactericides early."
+    ],
+    "pesticides": [
+      "Copper hydroxide (3 g/L) – spray weekly during humid weather.",
+      "Streptocycline (0.5 g/L) – alternate with copper sprays.",
+      "Kasugamycin (2 ml/L) – for systemic bacterial control."
+    ]
+  },
+  {
+    "diseaseName": "Tomato___Early_blight",
+    "remedies": [
+      "Remove infected leaves and rotate with non-host crops.",
+      "Use resistant tomato cultivars and improve soil organic matter.",
+      "Spray fungicide preventively before rainy season."
+    ],
+    "pesticides": [
+      "Mancozeb (2 g/L) – early preventive spray at 10-day intervals.",
+      "Chlorothalonil (2 g/L) – contact fungicide for foliar protection.",
+      "Azoxystrobin (0.5 ml/L) – systemic protection under high humidity."
+    ]
+  },
+  {
+    "diseaseName": "Tomato___healthy",
+    "remedies": [
+      "Practice crop rotation with cereals or legumes.",
+      "Water at the base of the plant to avoid leaf wetting.",
+      "Maintain regular field monitoring for early pest detection."
+    ],
+    "pesticides": [
+      "No pesticides required – maintain balanced NPK and proper irrigation."
+    ]
+  },
+  {
+    "diseaseName": "Tomato___Late_blight",
+    "remedies": [
+      "Avoid night-time irrigation and ensure good air circulation.",
+      "Destroy infected leaves immediately after detection.",
+      "Spray protective fungicides before prolonged rains."
+    ],
+    "pesticides": [
+      "Metalaxyl + Mancozeb (2 g/L) – systemic + contact protection.",
+      "Copper oxychloride (2.5 g/L) – effective as early preventive spray.",
+      "Cymoxanil + Mancozeb (2 g/L) – alternate to prevent resistance."
+    ]
+  },
+  {
+    "diseaseName": "Tomato___Leaf_Mold",
+    "remedies": [
+      "Ensure good greenhouse ventilation and avoid high humidity.",
+      "Remove infected leaves and debris from the soil surface.",
+      "Water at soil level to prevent leaf moisture."
+    ],
+    "pesticides": [
+      "Mancozeb (2 g/L) – effective for early leaf mold control.",
+      "Copper oxychloride (2 g/L) – for severe infections under humid conditions.",
+      "Azoxystrobin (0.5 ml/L) – systemic control for protected crops."
+    ]
+  },
+  {
+    "diseaseName": "Tomato___Septoria_leaf_spot",
+    "remedies": [
+      "Prune lower leaves to reduce humidity and splash spread.",
+      "Avoid overhead irrigation and improve field airflow.",
+      "Apply fungicides preventively when wet weather starts."
+    ],
+    "pesticides": [
+      "Chlorothalonil (2 g/L) – primary foliar fungicide.",
+      "Mancozeb (2 g/L) – broad-spectrum protection.",
+      "Copper oxychloride (2.5 g/L) – alternate with systemic fungicides."
+    ]
+  },
+  {
+    "diseaseName": "Tomato___Spider_mites___Two_spotted_spider_mite",
+    "remedies": [
+      "Spray plants with water to remove mites from undersides of leaves.",
+      "Introduce predatory mites if available for biological control.",
+      "Avoid excess nitrogen fertilization that encourages mite outbreaks."
+    ],
+    "pesticides": [
+      "Abamectin (0.5 ml/L) – miticide for two-spotted mite control.",
+      "Spiromesifen (1 ml/L) – for resistant mite populations.",
+      "Neem oil (5 ml/L) – organic contact control, repeat weekly."
+    ]
+  },
+  {
+    "diseaseName": "Tomato___Target_Spot",
+    "remedies": [
+      "Remove infected leaves and crop debris at season end.",
+      "Avoid dense planting and excessive nitrogen.",
+      "Apply fungicides during periods of high humidity."
+    ],
+    "pesticides": [
+      "Chlorothalonil (2 g/L) – contact fungicide every 7–10 days.",
+      "Mancozeb (2 g/L) – broad-spectrum preventive control.",
+      "Azoxystrobin (0.5 ml/L) – alternate with contact fungicides."
+    ]
+  },
+  {
+    "diseaseName": "Tomato___Tomato_mosaic_virus",
+    "remedies": [
+      "Remove infected plants immediately and destroy them.",
+      "Disinfect hands and tools after handling plants.",
+      "Avoid tobacco use or contact before touching tomato plants."
+    ],
+    "pesticides": [
+      "No direct pesticides – control aphid vectors with Imidacloprid (0.3 ml/L).",
+      "Use virus-free seeds or seedlings only.",
+      "Apply neem oil (5 ml/L) weekly to repel insects."
+    ]
+  },
+  {
+    "diseaseName": "Tomato___Tomato_YellowLeaf_Curl_Virus",
+    "remedies": [
+      "Uproot and destroy infected plants immediately.",
+      "Use yellow sticky traps to monitor and control whiteflies.",
+      "Apply insecticides to prevent further viral spread."
+    ],
+    "pesticides": [
+      "Imidacloprid (0.3 ml/L) – control whitefly vectors transmitting the virus.",
+      "Thiamethoxam (0.25 g/L) – alternate application every 10 days.",
+      "Neem-based botanical sprays (5 ml/L) – eco-friendly vector deterrent."
+    ]
+  }
+]

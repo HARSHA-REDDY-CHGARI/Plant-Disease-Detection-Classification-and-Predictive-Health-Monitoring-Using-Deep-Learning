@@ -1,0 +1,213 @@
+[
+  {
+    "diseaseName": "Leaf Spot",
+    "remedies": [
+      "Remove infected leaves and debris.",
+      "Use drip irrigation instead of overhead watering.",
+      "Apply neem oil or copper-based fungicide weekly.",
+      "Ensure proper spacing for airflow.",
+      "Disinfect pruning tools after use."
+    ],
+    "pesticides": [
+      "Copper oxychloride (2.5g/L)",
+      "Mancozeb 75 WP (2g/L)",
+      "Chlorothalonil (1.5g/L)",
+      "Zineb 75 WP (2g/L)"
+    ]
+  },
+  {
+    "diseaseName": "Apple Black Rot",
+    "remedies": [
+      "Prune infected twigs 15 cm below visible infection.",
+      "Destroy mummified fruit and debris.",
+      "Apply preventive sprays at petal fall and every 2 weeks.",
+      "Maintain good pruning and sunlight exposure."
+    ],
+    "pesticides": [
+      "Captan (2g/L)",
+      "Mancozeb (2g/L)",
+      "Thiophanate-methyl (1g/L)"
+    ]
+  },
+  {
+    "diseaseName": "Early Blight",
+    "remedies": [
+      "Remove infected leaves and rotate crops yearly.",
+      "Use resistant cultivars and maintain soil health.",
+      "Spray copper fungicide weekly during humid weather.",
+      "Avoid overhead watering."
+    ],
+    "pesticides": [
+      "Azoxystrobin (0.5 ml/L)",
+      "Mancozeb 75 WP (2g/L)",
+      "Chlorothalonil (1.5g/L)"
+    ]
+  },
+  {
+    "diseaseName": "Powdery Mildew",
+    "remedies": [
+      "Remove and destroy affected plant parts.",
+      "Spray sulfur-based fungicide or baking soda solution.",
+      "Provide good sunlight and avoid over-fertilizing."
+    ],
+    "pesticides": [
+      "Wettable sulfur (3g/L)",
+      "Tridemorph (1ml/L)",
+      "Hexaconazole (1ml/L)"
+    ]
+  },
+  {
+    "diseaseName": "Bacterial Blight",
+    "remedies": [
+      "Use disease-free seeds and rotate crops.",
+      "Avoid overhead irrigation and excess nitrogen.",
+      "Destroy infected residues after harvest.",
+      "Spray copper-based bactericides during wet seasons."
+    ],
+    "pesticides": [
+      "Copper hydroxide (3g/L)",
+      "Streptocycline (0.5g/L)",
+      "Kasugamycin (2ml/L)"
+    ]
+  },
+  {
+    "diseaseName": "Anthracnose",
+    "remedies": [
+      "Remove infected leaves immediately.",
+      "Avoid wetting foliage during irrigation.",
+      "Apply bio-fungicides like Trichoderma.",
+      "Keep the area weed-free and dry."
+    ],
+    "pesticides": [
+      "Carbendazim (1g/L)",
+      "Propiconazole (1ml/L)",
+      "Copper oxychloride (3g/L)"
+    ]
+  },
+  {
+    "diseaseName": "Leaf Curl",
+    "remedies": [
+      "Collect and burn infected leaves.",
+      "Spray neem oil or copper oxychloride at early stage.",
+      "Prune and destroy infected shoots.",
+      "Avoid waterlogging and high humidity."
+    ],
+    "pesticides": [
+      "Copper oxychloride (3g/L)",
+      "Mancozeb (2g/L)",
+      "Thiophanate methyl (1g/L)"
+    ]
+  },
+  {
+    "diseaseName": "Late Blight",
+    "remedies": [
+      "Remove and burn affected leaves and tubers.",
+      "Ensure proper drainage and air circulation.",
+      "Avoid night irrigation to reduce humidity.",
+      "Spray protective fungicides at 10-day intervals."
+    ],
+    "pesticides": [
+      "Metalaxyl + Mancozeb (2g/L)",
+      "Chlorothalonil (1.5g/L)",
+      "Dimethomorph (1ml/L)"
+    ]
+  },
+  {
+    "diseaseName": "Downy Mildew",
+    "remedies": [
+      "Avoid overhead irrigation and provide spacing.",
+      "Spray copper-based fungicides every 7–10 days.",
+      "Remove and destroy infected plant parts.",
+      "Rotate with non-host crops for 2 years."
+    ],
+    "pesticides": [
+      "Metalaxyl (1.5g/L)",
+      "Mancozeb (2g/L)",
+      "Copper oxychloride (3g/L)"
+    ]
+  },
+  {
+    "diseaseName": "Rust",
+    "remedies": [
+      "Destroy infected leaves and debris.",
+      "Avoid excess nitrogen fertilization.",
+      "Apply sulfur-based fungicides.",
+      "Encourage sunlight and airflow between plants."
+    ],
+    "pesticides": [
+      "Sulfur WP (3g/L)",
+      "Triforine (1ml/L)",
+      "Propiconazole (1ml/L)"
+    ]
+  },
+  {
+    "diseaseName": "Canker",
+    "remedies": [
+      "Cut and burn infected branches.",
+      "Disinfect pruning tools with bleach.",
+      "Apply Bordeaux paste on wounds.",
+      "Maintain good drainage and prune regularly."
+    ],
+    "pesticides": [
+      "Copper oxychloride (3g/L)",
+      "Carbendazim (1g/L)",
+      "Mancozeb (2g/L)"
+    ]
+  },
+  {
+    "diseaseName": "Wilt",
+    "remedies": [
+      "Use disease-free seedlings and resistant varieties.",
+      "Avoid continuous cropping with solanaceous crops.",
+      "Drench soil with bio-fungicide (Trichoderma).",
+      "Maintain good field sanitation."
+    ],
+    "pesticides": [
+      "Carbendazim (1g/L)",
+      "Thiram (3g/kg seed treatment)",
+      "Copper oxychloride (2.5g/L)"
+    ]
+  },
+  {
+    "diseaseName": "Root Rot",
+    "remedies": [
+      "Avoid waterlogging and ensure good drainage.",
+      "Use raised beds for planting.",
+      "Mix Trichoderma in soil before transplanting.",
+      "Remove and destroy infected plants."
+    ],
+    "pesticides": [
+      "Carbendazim (1g/L)",
+      "Copper oxychloride (2.5g/L)",
+      "Thiram (2g/L)"
+    ]
+  },
+  {
+    "diseaseName": "Sooty Mold",
+    "remedies": [
+      "Control sucking pests like aphids and whiteflies.",
+      "Spray neem oil (5ml/L) weekly.",
+      "Wash leaves with mild soap solution.",
+      "Avoid sticky honeydew accumulation."
+    ],
+    "pesticides": [
+      "Imidacloprid (0.3ml/L)",
+      "Neem oil (5ml/L)",
+      "Spiromesifen (0.5ml/L)"
+    ]
+  },
+  {
+    "diseaseName": "Mosaic Virus",
+    "remedies": [
+      "Remove and destroy infected plants immediately.",
+      "Control vector insects such as aphids and thrips.",
+      "Use virus-free seeds or planting material.",
+      "Apply reflective mulches to reduce insect landings."
+    ],
+    "pesticides": [
+      "Imidacloprid (0.3ml/L)",
+      "Thiamethoxam (0.25g/L)",
+      "Neem-based sprays (5ml/L)"
+    ]
+  }
+]

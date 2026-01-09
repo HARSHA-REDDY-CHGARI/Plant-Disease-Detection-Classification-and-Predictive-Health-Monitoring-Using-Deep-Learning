@@ -1,0 +1,173 @@
+[
+  {
+    "diseaseName": "Pepper__bell___Bacterial_spot",
+    "remedies": [
+      "Use certified disease-free seeds.",
+      "Avoid overhead irrigation to minimize leaf wetness.",
+      "Remove and destroy infected leaves immediately."
+    ],
+    "pesticides": [
+      "Copper hydroxide (3g/L)",
+      "Streptocycline (0.5g/L)",
+      "Kasugamycin (2ml/L)"
+    ]
+  },
+  {
+    "diseaseName": "Pepper__bell___healthy",
+    "remedies": ["No disease detected. Maintain regular watering and sunlight."],
+    "pesticides": ["No pesticides required."]
+  },
+  {
+    "diseaseName": "Potato___Early_blight",
+    "remedies": [
+      "Remove infected leaves and rotate crops yearly.",
+      "Avoid working in wet fields to prevent spread.",
+      "Spray copper fungicide weekly during humid weather."
+    ],
+    "pesticides": [
+      "Azoxystrobin (0.5 ml/L)",
+      "Mancozeb 75 WP (2g/L)",
+      "Chlorothalonil (1.5g/L)"
+    ]
+  },
+  {
+    "diseaseName": "Potato___healthy",
+    "remedies": ["No disease detected. Maintain soil moisture balance and aeration."],
+    "pesticides": ["No pesticides required."]
+  },
+  {
+    "diseaseName": "Potato___Late_blight",
+    "remedies": [
+      "Remove and burn affected leaves and tubers.",
+      "Ensure proper drainage and air circulation.",
+      "Avoid night irrigation to reduce humidity."
+    ],
+    "pesticides": [
+      "Metalaxyl + Mancozeb (2g/L)",
+      "Chlorothalonil (1.5g/L)",
+      "Dimethomorph (1ml/L)"
+    ]
+  },
+  {
+    "diseaseName": "Tomato_Target_Spot",
+    "remedies": [
+      "Remove infected leaves and ensure airflow.",
+      "Avoid excess nitrogen and overhead irrigation.",
+      "Apply fungicides during early infection."
+    ],
+    "pesticides": [
+      "Chlorothalonil (1.5g/L)",
+      "Mancozeb (2g/L)",
+      "Copper oxychloride (3g/L)"
+    ]
+  },
+  {
+    "diseaseName": "Tomato_Tomato_mosaic_virus",
+    "remedies": [
+      "Remove and destroy infected plants immediately.",
+      "Control aphids and thrips to reduce virus spread.",
+      "Avoid handling plants after touching tobacco."
+    ],
+    "pesticides": [
+      "Imidacloprid (0.3ml/L)",
+      "Thiamethoxam (0.25g/L)",
+      "Neem-based sprays (5ml/L)"
+    ]
+  },
+  {
+    "diseaseName": "Tomato_Tomato_YellowLeaf_Curl_Virus",
+    "remedies": [
+      "Remove and destroy infected plants immediately.",
+      "Control whiteflies and aphids effectively.",
+      "Use resistant tomato varieties where available."
+    ],
+    "pesticides": [
+      "Imidacloprid (0.3ml/L)",
+      "Thiamethoxam (0.25g/L)",
+      "Spiromesifen (0.5ml/L)"
+    ]
+  },
+  {
+    "diseaseName": "Tomato_Bacterial_spot",
+    "remedies": [
+      "Use disease-free seeds and rotate crops.",
+      "Avoid overhead irrigation during wet seasons.",
+      "Destroy infected residues after harvest."
+    ],
+    "pesticides": [
+      "Copper hydroxide (3g/L)",
+      "Streptocycline (0.5g/L)",
+      "Kasugamycin (2ml/L)"
+    ]
+  },
+  {
+    "diseaseName": "Tomato_Early_blight",
+    "remedies": [
+      "Remove lower infected leaves early.",
+      "Avoid working in wet fields.",
+      "Rotate crops with non-solanaceous plants."
+    ],
+    "pesticides": [
+      "Chlorothalonil (2g/L)",
+      "Mancozeb (2g/L)",
+      "Azoxystrobin (0.5ml/L)"
+    ]
+  },
+  {
+    "diseaseName": "Tomato_healthy",
+    "remedies": ["No disease detected. Keep soil nutrients balanced."],
+    "pesticides": ["No pesticides required."]
+  },
+  {
+    "diseaseName": "Tomato_Late_blight",
+    "remedies": [
+      "Destroy infected debris after harvest.",
+      "Avoid excess nitrogen fertilizers.",
+      "Apply fungicide preventively in wet weather."
+    ],
+    "pesticides": [
+      "Metalaxyl + Mancozeb (2g/L)",
+      "Chlorothalonil (1.5g/L)",
+      "Copper oxychloride (3g/L)"
+    ]
+  },
+  {
+    "diseaseName": "Tomato_Leaf_Mold",
+    "remedies": [
+      "Ensure good air circulation in greenhouses.",
+      "Avoid overhead watering.",
+      "Prune lower leaves and infected foliage."
+    ],
+    "pesticides": [
+      "Mancozeb (2g/L)",
+      "Copper oxychloride (3g/L)",
+      "Thiophanate-methyl (1g/L)"
+    ]
+  },
+  {
+    "diseaseName": "Tomato_Septoria_leaf_spot",
+    "remedies": [
+      "Remove and destroy infected leaves.",
+      "Avoid overhead irrigation.",
+      "Use crop rotation for at least 2 years."
+    ],
+    "pesticides": [
+      "Chlorothalonil (2g/L)",
+      "Copper hydroxide (3g/L)",
+      "Mancozeb (2g/L)"
+    ]
+  },
+  {
+    "diseaseName": "Tomato_Spider_mites_Two_spotted_spider_mite",
+    "remedies": [
+      "Spray water to remove mites.",
+      "Introduce predatory mites like Phytoseiulus.",
+      "Avoid excessive use of nitrogen fertilizer."
+    ],
+    "pesticides": [
+      "Abamectin (0.5ml/L)",
+      "Spiromesifen (0.5ml/L)",
+      "Neem oil (5ml/L)"
+    ]
+  }
+]
